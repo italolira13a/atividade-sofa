@@ -1,0 +1,36 @@
+body {
+    background-color: #927f7f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  .container {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  .lanternas {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .titulo {
+    color: #FFFFFF;
+    font-size: 2em;
+    margin: 20px 0;
+  }
+  .preco {
+    color: #FFD700;
+    font-size: 1.5em;
+    margin: 10px 0;
+  }
+  .botao {
+    background-color: #FF4500;
+    color: #927f7f;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+    margin-top: 20px;
+  }
